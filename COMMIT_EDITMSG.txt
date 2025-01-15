@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch and 'origin/main' have diverged,
+# and have 1 and 1 different commits each, respectively.
+#
+# Changes to be committed:
+#	renamed:    web-project/README.md -> README.md
+#	modified:   fotowoltaika.html
+#	modified:   index.html
+#	renamed:    web-project/js/scripts.js -> scripts.js
+#	renamed:    web-project/css/styles.css -> styles.css
+#	deleted:    web-project/fotowoltaika.html
+#	deleted:    web-project/index.html
+#	renamed:    web-project/wiatraki.html -> wiatraki.html
+#	renamed:    web-project/wodor.html -> wodor.html
+#
